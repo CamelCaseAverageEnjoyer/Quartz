@@ -1,0 +1,18 @@
+<script>
+MathJax = {
+  tex: {
+    macros: {
+      l: "\\lambda", // Определение команды \l
+      mb: "\\mathbb", // Пример другой команды
+      // Добавь другие команды здесь
+    },
+    inlineMath: [['$', '$'], ['\\(', '\\)']], // Для поддержки inline-формул
+    displayMath: [['$$', '$$'], ['\\[', '\\]']], // Для поддержки display-формул
+    processEscapes: true, // Для поддержки экранирования
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'], // Игнорировать HTML-теги
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
