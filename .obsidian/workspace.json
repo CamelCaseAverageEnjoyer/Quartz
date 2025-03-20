@@ -224,11 +224,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "content/Элементы общей алгебры и общей топологии.md",
+    "README.md",
+    "content/Линейные системы.md",
+    "Главная.md",
     "layouts/_default/baseof.html",
     "layouts/_default/Untitled Document",
     "layouts/_default",
@@ -240,8 +245,6 @@
     "content/layouts/partials",
     "content/layouts",
     "content/Динамические системы.md",
-    "content/Линейные системы.md",
-    "layouts/partials/Untitled Document",
     "content/index.md",
     "content/ГОС по специальности 1.1.7.md",
     "content/files/центр.excalidraw.md",
@@ -259,14 +262,12 @@
     "content/files/неуст-дикр-узелcalidraw.md",
     "content/files/неуст-выр-узел.excalidraw.md",
     "content/files/выр-жорд-узел.excalidraw.md",
-    "content/Элементы общей алгебры и общей топологии.md",
     "content/Основные понятия теории динамических систем.md",
     "content/files/седло.excalidraw.md",
     "content/files/седло.excalidraw.png",
     "content/Кинематика точки. Естественный трехгранник Дарбу. Криволинейные координаты и параметры Ламе..md",
     "content/files/Теормех 2025-03-06 11.47.49.excalidraw.md",
     "content/files/Теормех 2025-03-06 11.47.49.excalidraw.png",
-    "content/files/Теормех 2025-03-06 11.44.19.excalidraw.md",
     "content/files/Теормех 2025-03-06 11.44.19.excalidraw.png"
   ]
 }
