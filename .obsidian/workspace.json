@@ -230,6 +230,8 @@
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "layouts/partials/katex.html",
+    "layouts/partials/Untitled Document",
     "config.toml",
     "Untitled Document",
     "content/Элементы общей алгебры и общей топологии.md",
@@ -243,8 +245,6 @@
     "layouts/partials/mathjax.html",
     "layouts/partials",
     "layouts",
-    "content/layouts/partials/mathjax.html",
-    "content/layouts/partials",
     "content/Динамические системы.md",
     "content/index.md",
     "content/ГОС по специальности 1.1.7.md",
