@@ -229,6 +229,9 @@
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "content/layouts/partials/mathjax.html",
+    "content/layouts/partials",
+    "content/layouts",
     "content/Динамические системы.md",
     "content/Линейные системы.md",
     "layouts/partials/mathjax.html",
