@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d3ee405eced04be",
@@ -230,14 +229,14 @@
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "content/Динамические системы.md",
+    "content/Линейные системы.md",
     "layouts/partials/mathjax.html",
     "layouts/partials/Untitled Document",
     "layouts/partials",
     "layouts/Untitled Folder",
     "layouts",
     "Untitled Folder",
-    "content/Динамические системы.md",
-    "content/Линейные системы.md",
     "content/index.md",
     "content/ГОС по специальности 1.1.7.md",
     "content/files/центр.excalidraw.md",
