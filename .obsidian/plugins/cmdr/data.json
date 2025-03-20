@@ -1,0 +1,44 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-save",
+      "name": "Git: Commit-and-sync",
+      "mode": "any",
+      "color": "#11ff00"
+    },
+    {
+      "id": "file-explorer:new-file",
+      "icon": "lucide-file-plus",
+      "name": "Создать новую заметку",
+      "mode": "any",
+      "color": "#a3f9ff"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
