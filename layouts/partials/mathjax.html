@@ -2,16 +2,16 @@
 MathJax = {
   tex: {
     macros: {
-      l: "\\lambda", // Определение команды \l
-      mb: "\\mathbb", // Пример другой команды
+      l: "\\lambda",  // Определение команды \l
+      mb: "\\mathbb",  // Пример другой команды
       // Добавь другие команды здесь
     },
-    inlineMath: [["$", "$"], ['\\(', '\\)']], // Для поддержки inline-формул
-    displayMath: [["$$", "$$"], ['\\[', '\\]']], // Для поддержки display-формул
-    processEscapes: true, // Для поддержки экранирования
+    inlineMath: [['$', '$'], ['\\(', '\\)']],  // Для inline-формул
+    displayMath: [['$$', '$$'], ['\\[', '\\]']],  // Для display-формул
+    processEscapes: true,  // Для поддержки экранирования
   },
   options: {
-    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'], // Игнорировать HTML-теги
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],  // Игнорировать HTML-теги
   }
 };
 </script>

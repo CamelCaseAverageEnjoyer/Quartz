@@ -6,8 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
-  {{ partial "mathjax.html" . }} <!-- Подключение MathJax -->
   {{ partial "katex.html" . }} <!-- Подключение KaTeX -->
+  {{ partial "mathjax.html" . }} <!-- Подключение MathJax -->
 </head>
 <body>
   {{ block "main" . }}{{ end }}

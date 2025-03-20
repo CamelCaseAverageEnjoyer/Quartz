@@ -230,6 +230,8 @@
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "config.yaml",
+    "config (copy).toml",
     "layouts/partials/katex.html",
     "layouts/partials/Untitled Document",
     "config.toml",
@@ -243,8 +245,6 @@
     "layouts/_default",
     "layouts/Untitled Folder",
     "layouts/partials/mathjax.html",
-    "layouts/partials",
-    "layouts",
     "content/Динамические системы.md",
     "content/index.md",
     "content/ГОС по специальности 1.1.7.md",
