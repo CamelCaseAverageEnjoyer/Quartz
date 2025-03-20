@@ -1,4 +1,20 @@
 {
+  "baseURL": "https://camelcaseaverageenjoyer.github.io/Quartz/",
+  "languageCode": "en-us",
+  "title": "Дебильники",
+  "theme": "hugo-theme-quartz",
+  "params": {
+    "enableMathJax": true,
+    "description": "Мой сайт на Quartz",
+    "author": "CamelCaseAverageEnjoyer"
+  },
+  "markup": {
+    "goldmark": {
+      "renderer": {
+        "unsafe": true
+      }
+    }
+  },
   "name": "@jackyzha0/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
