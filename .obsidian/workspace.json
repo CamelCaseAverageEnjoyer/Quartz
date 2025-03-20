@@ -229,6 +229,10 @@
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "layouts/_default/baseof.html",
+    "layouts/_default/Untitled Document",
+    "layouts/_default",
+    "layouts/Untitled Folder",
     "layouts/partials/mathjax.html",
     "layouts/partials",
     "layouts",
@@ -238,8 +242,6 @@
     "content/Динамические системы.md",
     "content/Линейные системы.md",
     "layouts/partials/Untitled Document",
-    "layouts/Untitled Folder",
-    "Untitled Folder",
     "content/index.md",
     "content/ГОС по специальности 1.1.7.md",
     "content/files/центр.excalidraw.md",
@@ -265,7 +267,6 @@
     "content/files/Теормех 2025-03-06 11.47.49.excalidraw.md",
     "content/files/Теормех 2025-03-06 11.47.49.excalidraw.png",
     "content/files/Теормех 2025-03-06 11.44.19.excalidraw.md",
-    "content/files/Теормех 2025-03-06 11.44.19.excalidraw.png",
-    "content/files"
+    "content/files/Теормех 2025-03-06 11.44.19.excalidraw.png"
   ]
 }
