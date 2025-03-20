@@ -9,5 +9,7 @@
     "page_width",
     "properties_bar",
     "rainbow-tags"
-  ]
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }
