@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d3ee405eced04be",
@@ -229,13 +230,15 @@
   },
   "active": "ea6286164a22de79",
   "lastOpenFiles": [
+    "content/files/Теормех 2025-03-06 11.47.49.excalidraw.md",
+    "content/files/Теормех 2025-03-06 11.47.49.excalidraw.png",
     "content/files/Теормех 2025-03-06 11.44.19.excalidraw.md",
     "content/Кинематика точки. Естественный трехгранник Дарбу. Криволинейные координаты и параметры Ламе..md",
+    "content/files/Теормех 2025-03-06 11.44.19.excalidraw.png",
     "content/Элементы общей алгебры и общей топологии.md",
     "content/Динамические системы.md",
     "content/index.md",
     "content/ГОС по специальности 1.1.7 (Теоретическая механика, динамика машин).md",
-    "content/files/Теормех 2025-03-06 11.47.49.excalidraw.md",
     "content/files"
   ]
 }
