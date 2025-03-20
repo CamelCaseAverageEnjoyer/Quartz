@@ -230,6 +230,8 @@
   },
   "active": "3ffc09a1a5cc310c",
   "lastOpenFiles": [
+    "config.toml",
+    "Untitled Document",
     "content/Элементы общей алгебры и общей топологии.md",
     "README.md",
     "content/Линейные системы.md",
@@ -243,7 +245,6 @@
     "layouts",
     "content/layouts/partials/mathjax.html",
     "content/layouts/partials",
-    "content/layouts",
     "content/Динамические системы.md",
     "content/index.md",
     "content/ГОС по специальности 1.1.7.md",
@@ -266,7 +267,6 @@
     "content/files/седло.excalidraw.md",
     "content/files/седло.excalidraw.png",
     "content/Кинематика точки. Естественный трехгранник Дарбу. Криволинейные координаты и параметры Ламе..md",
-    "content/files/Теормех 2025-03-06 11.47.49.excalidraw.md",
     "content/files/Теормех 2025-03-06 11.47.49.excalidraw.png",
     "content/files/Теормех 2025-03-06 11.44.19.excalidraw.png"
   ]
