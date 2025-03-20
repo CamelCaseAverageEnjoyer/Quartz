@@ -18,5 +18,22 @@
     "jsxImportSource": "preact"
   },
   "include": ["**/*.ts", "**/*.tsx", "./package.json"],
-  "exclude": ["build/**/*.d.ts"]
+  "exclude": ["build/**/*.d.ts"],
+
+  "baseURL": "https://camelcaseaverageenjoyer.github.io/Quartz/",
+  "languageCode": "en-us",
+  "title": "Quartz",
+  "theme": "hugo-theme-quartz",
+  "params": {
+    "enableMathJax": true,
+    "description": "Мой сайт на Quartz",
+    "author": "CamelCaseAverageEnjoyer"
+  },
+  "markup": {
+    "goldmark": {
+      "renderer": {
+        "unsafe": true
+      }
+    }
+  }
 }
