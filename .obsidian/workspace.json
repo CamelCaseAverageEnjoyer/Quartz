@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Динамические системы.md",
+                "file": "content/ГОС по специальности 1.1.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Динамические системы"
+              "title": "ГОС по специальности 1.1.7"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,16 +197,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "747bccd1e7f79660",
+  "active": "2c476ced41569eaf",
   "lastOpenFiles": [
+    "content/files/Кинематика точки.pdf",
+    "content/Динамические системы.md",
+    "content/index.md",
+    "content/files/Элементы общей алгебры и общей топологии.pdf",
     "README.md",
     "quartz/static/icon.png",
     "quartz/static/ico-work.png",
     "quartz/static/og-image.png",
     "docs/authoring content.md",
     "CODE_OF_CONDUCT.md",
-    "content/index.md",
-    "content/Динамические системы.md",
     "content/Линейные системы.md",
     "content/pdf/Элементы общей алгебры и общей топологии.pdf",
     "content/pdf",
@@ -242,7 +244,6 @@
     "layouts/partials/katex.html",
     "layouts/partials/Untitled Document",
     "config.toml",
-    "Untitled Document",
-    "layouts/_default/baseof.html"
+    "Untitled Document"
   ]
 }
