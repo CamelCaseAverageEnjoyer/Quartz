@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +212,14 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "64894592db0237f1",
+  "active": "2c476ced41569eaf",
   "lastOpenFiles": [
+    "content/pdf/Элементы общей алгебры и общей топологии.pdf",
+    "content/pdf",
+    "content/Untitled Folder",
     "content/Основные понятия теории динамических систем.md",
-    "content/Динамические системы.md",
     "content/Элементы общей алгебры и общей топологии.md",
+    "content/Динамические системы.md",
     "content/Бифуркации в непрерывных динамических системах.md",
     "content/Локальное поведение нелинейных систем.md",
     "content/Глобальное поведение нелинейных систем.md",
@@ -249,7 +252,6 @@
     "content/Фракталы и хаос в динамических системах. Модели нелинейных систем.md",
     "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
     "content/files/Теормех 2025-03-20 11.16.59.excalidraw.md",
-    "content/files/Теормех 2025-03-20 11.13.03.excalidraw.md",
     "config.yaml",
     "config (copy).toml",
     "layouts/partials/katex.html",
@@ -257,8 +259,6 @@
     "config.toml",
     "Untitled Document",
     "layouts/_default/baseof.html",
-    "layouts/_default/Untitled Document",
-    "layouts/_default",
-    "layouts/Untitled Folder"
+    "layouts/_default/Untitled Document"
   ]
 }
