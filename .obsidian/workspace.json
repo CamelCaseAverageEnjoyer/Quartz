@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "64894592db0237f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Элементы общей алгебры и общей топологии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Элементы общей алгебры и общей топологии"
+            }
+          },
+          {
             "id": "94ccb699641e3e50",
             "type": "leaf",
             "state": {
@@ -45,48 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "Основные понятия теории динамических систем"
-            }
-          },
-          {
-            "id": "ff86330850b95017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Бифуркации в непрерывных динамических системах.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бифуркации в непрерывных динамических системах"
-            }
-          },
-          {
-            "id": "7988c02c869d8901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Линейные системы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Линейные системы"
-            }
-          },
-          {
-            "id": "40c0d88230c72b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Локальное поведение нелинейных систем.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Локальное поведение нелинейных систем"
             }
           }
         ],
@@ -240,9 +212,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "94ccb699641e3e50",
+  "active": "64894592db0237f1",
   "lastOpenFiles": [
     "content/Динамические системы.md",
+    "content/Элементы общей алгебры и общей топологии.md",
+    "content/Основные понятия теории динамических систем.md",
     "content/Бифуркации в непрерывных динамических системах.md",
     "content/Локальное поведение нелинейных систем.md",
     "content/Глобальное поведение нелинейных систем.md",
@@ -272,7 +246,6 @@
     "content/files/седло-узел.excalidraw.md",
     "content/Линейные системы.md",
     "content/Бифуркации в дискретных динамических системах.md",
-    "content/Основные понятия теории динамических систем.md",
     "content/Фракталы и хаос в динамических системах. Модели нелинейных систем.md",
     "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
     "content/files/Теормех 2025-03-20 11.16.59.excalidraw.md",
