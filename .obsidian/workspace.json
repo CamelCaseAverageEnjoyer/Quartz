@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "ff86330850b95017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Бифуркации в непрерывных динамических системах.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бифуркации в непрерывных динамических системах"
+            }
+          },
+          {
             "id": "7988c02c869d8901",
             "type": "leaf",
             "state": {
@@ -60,51 +74,9 @@
               "icon": "lucide-file",
               "title": "Локальное поведение нелинейных систем"
             }
-          },
-          {
-            "id": "1c5ba33e9eab2f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Глобальное поведение нелинейных систем.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Глобальное поведение нелинейных систем"
-            }
-          },
-          {
-            "id": "4a1d6565461503ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Структурно устойчивые системы и элементы теории бифуркаций.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Структурно устойчивые системы и элементы теории бифуркаций"
-            }
-          },
-          {
-            "id": "73aebbeb48dfae45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Бифуркации в непрерывных динамических системах.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бифуркации в непрерывных динамических системах"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,11 +226,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "73aebbeb48dfae45",
+  "active": "ff86330850b95017",
   "lastOpenFiles": [
+    "content/Динамические системы.md",
+    "content/Локальное поведение нелинейных систем.md",
+    "content/Глобальное поведение нелинейных систем.md",
+    "content/Структурно устойчивые системы и элементы теории бифуркаций.md",
+    "content/Бифуркации в непрерывных динамических системах.md",
     "content/files/Динамические системы 2025-03-11 12.36.04.excalidraw.md",
     "content/files/Динамические системы 2025-03-11 12.36.04.excalidraw.png",
-    "content/Бифуркации в непрерывных динамических системах.md",
     "content/files/Динамические системы 2025-03-11 12.21.11.excalidraw.md",
     "content/files/Динамические системы 2025-03-11 12.21.11.excalidraw.png",
     "content/files/биффуркация вилка.excalidraw.md",
@@ -273,19 +249,15 @@
     "content/files/Динамические системы 2025-02-25 12.13.28.excalidraw.png",
     "content/files/Динамические системы 2025-02-25 12.12.31.excalidraw.md",
     "content/files/Динамические системы 2025-02-25 12.12.31.excalidraw.png",
-    "content/Структурно устойчивые системы и элементы теории бифуркаций.md",
     "content/files/Динамические системы 2025-02-25 11.12.32.excalidraw.md",
     "content/files/Динамические системы 2025-02-25 11.12.32.excalidraw.png",
     "content/files/d(x)=x.excalidraw.md",
     "content/files/d(x)=x.excalidraw.png",
-    "content/Глобальное поведение нелинейных систем.md",
-    "content/Локальное поведение нелинейных систем.md",
     "content/files/устойчивость.excalidraw.md",
     "content/files/седло-узел-2.excalidraw.md",
     "content/files/седло-узел.excalidraw.md",
     "content/Линейные системы.md",
     "content/Бифуркации в дискретных динамических системах.md",
-    "content/Динамические системы.md",
     "content/Основные понятия теории динамических систем.md",
     "content/Фракталы и хаос в динамических системах. Модели нелинейных систем.md",
     "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
