@@ -214,12 +214,13 @@
   },
   "active": "2c476ced41569eaf",
   "lastOpenFiles": [
+    "content/Линейные системы.md",
+    "content/Динамические системы.md",
     "content/pdf/Элементы общей алгебры и общей топологии.pdf",
     "content/pdf",
     "content/Untitled Folder",
     "content/Основные понятия теории динамических систем.md",
     "content/Элементы общей алгебры и общей топологии.md",
-    "content/Динамические системы.md",
     "content/Бифуркации в непрерывных динамических системах.md",
     "content/Локальное поведение нелинейных систем.md",
     "content/Глобальное поведение нелинейных систем.md",
@@ -247,7 +248,6 @@
     "content/files/устойчивость.excalidraw.md",
     "content/files/седло-узел-2.excalidraw.md",
     "content/files/седло-узел.excalidraw.md",
-    "content/Линейные системы.md",
     "content/Бифуркации в дискретных динамических системах.md",
     "content/Фракталы и хаос в динамических системах. Модели нелинейных систем.md",
     "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
@@ -258,7 +258,6 @@
     "layouts/partials/Untitled Document",
     "config.toml",
     "Untitled Document",
-    "layouts/_default/baseof.html",
-    "layouts/_default/Untitled Document"
+    "layouts/_default/baseof.html"
   ]
 }
