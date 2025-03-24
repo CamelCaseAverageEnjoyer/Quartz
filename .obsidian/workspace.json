@@ -39,16 +39,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Динамические системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Динамические системы"
+            }
+          },
+          {
+            "id": "74f6447f13715c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Элементы общей алгебры и общей топологии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Элементы общей алгебры и общей топологии"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,53 +211,53 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "2c476ced41569eaf",
+  "active": "74f6447f13715c8d",
   "lastOpenFiles": [
-    "content/files/Кинематика точки.pdf",
     "content/Динамические системы.md",
     "content/index.md",
+    "content/Элементы общей алгебры и общей топологии.md",
+    "content/files/центр.excalidraw.png",
+    "content/files/центр.excalidraw.md",
+    "content/files/фокус.excalidraw.md",
+    "content/files/устойчивость.excalidraw.png",
+    "content/files/устойчивость.excalidraw.md",
+    "content/files/уст-фокус.excalidraw.png",
+    "content/files/уст-фокус.excalidraw.md",
+    "content/files/уст-узел.excalidraw.png",
+    "content/files/уст-узел.excalidraw.md",
+    "content/files/уст-жорд-узел.excalidraw.png",
+    "content/files/уст-жорд-узел.excalidraw.md",
+    "content/files/уст-декр-узел.excalidraw.png",
+    "content/files/уст-декр-узел.excalidraw.md",
+    "content/files/уст-выр-узел.excalidraw.png",
+    "content/files/уст-выр-узел.excalidraw.md",
+    "content/files/транскритическая биффуркация.excalidraw.png",
+    "content/files/транскритическая биффуркация.excalidraw.md",
+    "content/files/седло.excalidraw.png",
+    "content/files/седло.excalidraw.md",
+    "content/files/седло-узловая биффуркация.excalidraw.png",
+    "content/files/седло-узловая биффуркация.excalidraw.md",
+    "content/files/седло-узел.excalidraw.md",
+    "content/files/седло-узел-2.excalidraw.md",
+    "content/files/неуст-фокус.excalidraw.md",
+    "content/files/неуст-узел.excalidraw.md",
+    "content/files/неуст-жорд-узел.excalidraw.md",
+    "content/files/неуст-дикр-узел.excalidraw.md",
+    "content/files/неуст-выр-узел.excalidraw.md",
+    "content/files/выр-жорд-узел.excalidraw.md",
+    "content/files/биффуркация вилка.excalidraw.md",
+    "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
+    "content/files/Теормех 2025-03-20 11.16.59.excalidraw.md",
+    "content/files/Теормех 2025-03-20 11.13.03.excalidraw.md",
+    "content/files/Кинематика точки.pdf",
     "content/files/Элементы общей алгебры и общей топологии.pdf",
-    "README.md",
-    "quartz/static/icon.png",
-    "quartz/static/ico-work.png",
-    "quartz/static/og-image.png",
-    "docs/authoring content.md",
-    "CODE_OF_CONDUCT.md",
-    "content/Линейные системы.md",
     "content/pdf/Элементы общей алгебры и общей топологии.pdf",
     "content/pdf",
     "content/Untitled Folder",
-    "content/Основные понятия теории динамических систем.md",
-    "content/Элементы общей алгебры и общей топологии.md",
-    "content/Бифуркации в непрерывных динамических системах.md",
-    "content/Локальное поведение нелинейных систем.md",
-    "content/Глобальное поведение нелинейных систем.md",
-    "content/Структурно устойчивые системы и элементы теории бифуркаций.md",
-    "content/files/Динамические системы 2025-03-11 12.36.04.excalidraw.md",
-    "content/files/Динамические системы 2025-03-11 12.36.04.excalidraw.png",
-    "content/files/Динамические системы 2025-03-11 12.21.11.excalidraw.md",
-    "content/files/Динамические системы 2025-03-11 12.21.11.excalidraw.png",
-    "content/files/биффуркация вилка.excalidraw.md",
-    "content/files/биффуркация вилка.excalidraw.png",
-    "content/files/транскритическая биффуркация.excalidraw.md",
-    "content/files/транскритическая биффуркация.excalidraw.png",
-    "content/files/седло-узловая биффуркация.excalidraw.md",
-    "content/files/седло-узловая биффуркация.excalidraw.png",
-    "content/files/Динамические системы 2025-02-25 12.14.11.excalidraw.md",
-    "content/files/Динамические системы 2025-02-25 12.14.11.excalidraw.png",
-    "content/files/Динамические системы 2025-02-25 12.13.28.excalidraw.md",
-    "content/files/Динамические системы 2025-02-25 12.13.28.excalidraw.png",
-    "content/files/Динамические системы 2025-02-25 12.12.31.excalidraw.md",
-    "content/files/Динамические системы 2025-02-25 11.12.32.excalidraw.md",
-    "content/files/d(x)=x.excalidraw.md",
-    "content/files/устойчивость.excalidraw.md",
-    "content/files/седло-узел-2.excalidraw.md",
-    "content/files/седло-узел.excalidraw.md",
     "config.yaml",
     "config (copy).toml",
     "layouts/partials/katex.html",
     "layouts/partials/Untitled Document",
-    "config.toml",
-    "Untitled Document"
+    "config.toml"
   ]
 }
