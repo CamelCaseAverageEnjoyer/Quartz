@@ -213,6 +213,14 @@
   },
   "active": "74f6447f13715c8d",
   "lastOpenFiles": [
+    "layouts/partials/head.html",
+    "layouts/partials/Untitled Document",
+    "layouts/partials",
+    "layouts/Untitled Folder",
+    "layouts",
+    "Untitled Folder",
+    "config.toml",
+    "Untitled Document",
     "content/Динамические системы.md",
     "content/index.md",
     "content/Элементы общей алгебры и общей топологии.md",
@@ -248,16 +256,8 @@
     "content/files/биффуркация вилка.excalidraw.md",
     "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
     "content/files/Теормех 2025-03-20 11.16.59.excalidraw.md",
-    "content/files/Теормех 2025-03-20 11.13.03.excalidraw.md",
     "content/files/Кинематика точки.pdf",
     "content/files/Элементы общей алгебры и общей топологии.pdf",
-    "content/pdf/Элементы общей алгебры и общей топологии.pdf",
-    "content/pdf",
-    "content/Untitled Folder",
-    "config.yaml",
-    "config (copy).toml",
-    "layouts/partials/katex.html",
-    "layouts/partials/Untitled Document",
-    "config.toml"
+    "content/pdf/Элементы общей алгебры и общей топологии.pdf"
   ]
 }
