@@ -578,8 +578,8 @@ ol.overflow {
 }
 
 .katex-display {
-  overflow-x: auto;
-  overflow-y: hidden;
+  margin: 1em 0;
+  text-align: center;
 }
 
 .external-embed.youtube,

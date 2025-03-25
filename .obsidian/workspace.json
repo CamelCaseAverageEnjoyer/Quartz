@@ -213,6 +213,7 @@
   },
   "active": "74f6447f13715c8d",
   "lastOpenFiles": [
+    "quartz/config.toml",
     "layouts/partials/head.html",
     "layouts/partials/Untitled Document",
     "layouts/partials",
@@ -257,7 +258,6 @@
     "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
     "content/files/Теормех 2025-03-20 11.16.59.excalidraw.md",
     "content/files/Кинематика точки.pdf",
-    "content/files/Элементы общей алгебры и общей топологии.pdf",
-    "content/pdf/Элементы общей алгебры и общей топологии.pdf"
+    "content/files/Элементы общей алгебры и общей топологии.pdf"
   ]
 }
