@@ -20,6 +20,36 @@
             }
           },
           {
+            "id": "244b65a0f7aa622e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "2228c8f4f50c1294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Динамические системы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Динамические системы"
+            }
+          },
+          {
             "id": "2c476ced41569eaf",
             "type": "leaf",
             "state": {
@@ -34,35 +64,21 @@
             }
           },
           {
-            "id": "747bccd1e7f79660",
+            "id": "413efb70255eb1b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Динамические системы.md",
+                "file": "content/Записи вольного формата.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Динамические системы"
-            }
-          },
-          {
-            "id": "74f6447f13715c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Элементы общей алгебры и общей топологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Элементы общей алгебры и общей топологии"
+              "title": "Записи вольного формата"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d3ee405eced04be",
@@ -211,20 +228,24 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "74f6447f13715c8d",
+  "active": "2228c8f4f50c1294",
   "lastOpenFiles": [
+    "content/files/Основные понятия теории динамических систем.pdf",
+    "content/files/Линейные системы.pdf",
+    "content/files/Локальное поведение нелинейных систем.pdf",
+    "content/files/Глобальное поведение нелинейных систем.pdf",
+    "content/files/Структурно устойчивые системы и элементы теории бифуркаций.pdf",
+    "content/files/Бифуркации в непрерывных динамических системах.pdf",
+    "content/index.md",
+    "content/Динамические системы.md",
+    "content/ГОС по специальности 1.1.7.md",
+    "content/Записи вольного формата.md",
+    "content/Элементы общей алгебры и общей топологии.md",
+    "content/files/Кинематика точки.pdf",
     "quartz/config.toml",
     "layouts/partials/head.html",
     "layouts/partials/Untitled Document",
     "layouts/partials",
-    "layouts/Untitled Folder",
-    "layouts",
-    "Untitled Folder",
-    "config.toml",
-    "Untitled Document",
-    "content/Динамические системы.md",
-    "content/index.md",
-    "content/Элементы общей алгебры и общей топологии.md",
     "content/files/центр.excalidraw.png",
     "content/files/центр.excalidraw.md",
     "content/files/фокус.excalidraw.md",
@@ -254,10 +275,6 @@
     "content/files/неуст-дикр-узел.excalidraw.md",
     "content/files/неуст-выр-узел.excalidraw.md",
     "content/files/выр-жорд-узел.excalidraw.md",
-    "content/files/биффуркация вилка.excalidraw.md",
-    "content/files/Теормех 2025-03-20 11.19.33.excalidraw.md",
-    "content/files/Теормех 2025-03-20 11.16.59.excalidraw.md",
-    "content/files/Кинематика точки.pdf",
-    "content/files/Элементы общей алгебры и общей топологии.pdf"
+    "content/files/биффуркация вилка.excalidraw.md"
   ]
 }
