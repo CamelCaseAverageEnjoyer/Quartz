@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "643276273bacbd57",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
             "id": "244b65a0f7aa622e",
             "type": "leaf",
             "pinned": true,
@@ -62,20 +50,6 @@
               "icon": "lucide-file",
               "title": "ГОС по специальности 1.1.7"
             }
-          },
-          {
-            "id": "413efb70255eb1b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Записи вольного формата.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Записи вольного формата"
-            }
           }
         ],
         "currentTab": 2
@@ -90,6 +64,7 @@
       {
         "id": "e72c836ac5b215e4",
         "type": "tabs",
+        "dimension": 51.720647773279346,
         "children": [
           {
             "id": "3703c4e36882488f",
@@ -132,11 +107,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "731231cb6b47ece6",
+        "type": "tabs",
+        "dimension": 48.27935222672065,
+        "children": [
+          {
+            "id": "643276273bacbd57",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 397.5
   },
   "right": {
     "id": "3d3ee405eced04be",
@@ -228,24 +221,32 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "2228c8f4f50c1294",
+  "active": "2c476ced41569eaf",
   "lastOpenFiles": [
+    "content/Динамические системы.md",
+    "content/files/Элементы общей алгебры и общей топологии.pdf",
+    "content/index.md",
+    "content/ГОС по специальности 1.1.7.md",
+    "content/Matlab.md",
+    "content/(Matlab) Работа с файлами.md",
+    "content/(Matlab) Графика.md",
+    "content/(Matlab) Функции, импорт.md",
+    "content/(Matlab) Базовый синтаксис.md",
+    "content/Python.md",
+    "content/(Python) Конструкции Python.md",
+    "content/(Python) Базовый синтаксис.md",
+    "content/(Python) Типы данных.md",
+    "content/Записи вольного формата.md",
     "content/files/Основные понятия теории динамических систем.pdf",
     "content/files/Линейные системы.pdf",
     "content/files/Локальное поведение нелинейных систем.pdf",
     "content/files/Глобальное поведение нелинейных систем.pdf",
     "content/files/Структурно устойчивые системы и элементы теории бифуркаций.pdf",
     "content/files/Бифуркации в непрерывных динамических системах.pdf",
-    "content/index.md",
-    "content/Динамические системы.md",
-    "content/ГОС по специальности 1.1.7.md",
-    "content/Записи вольного формата.md",
     "content/Элементы общей алгебры и общей топологии.md",
     "content/files/Кинематика точки.pdf",
     "quartz/config.toml",
     "layouts/partials/head.html",
-    "layouts/partials/Untitled Document",
-    "layouts/partials",
     "content/files/центр.excalidraw.png",
     "content/files/центр.excalidraw.md",
     "content/files/фокус.excalidraw.md",
@@ -266,15 +267,6 @@
     "content/files/седло.excalidraw.png",
     "content/files/седло.excalidraw.md",
     "content/files/седло-узловая биффуркация.excalidraw.png",
-    "content/files/седло-узловая биффуркация.excalidraw.md",
-    "content/files/седло-узел.excalidraw.md",
-    "content/files/седло-узел-2.excalidraw.md",
-    "content/files/неуст-фокус.excalidraw.md",
-    "content/files/неуст-узел.excalidraw.md",
-    "content/files/неуст-жорд-узел.excalidraw.md",
-    "content/files/неуст-дикр-узел.excalidraw.md",
-    "content/files/неуст-выр-узел.excalidraw.md",
-    "content/files/выр-жорд-узел.excalidraw.md",
-    "content/files/биффуркация вилка.excalidraw.md"
+    "content/files/седло-узловая биффуркация.excalidraw.md"
   ]
 }

@@ -8,18 +8,18 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:.excalidraw",
+      "query": "file:index",
       "color": {
         "a": 1,
-        "rgb": 5555
+        "rgb": 52479
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 0.852864583333333,
+  "lineSizeMultiplier": 2.20546875,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,

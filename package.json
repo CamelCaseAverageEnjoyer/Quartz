@@ -1,7 +1,7 @@
 {
   "baseURL": "https://camelcaseaverageenjoyer.github.io/Quartz/",
   "languageCode": "en-us",
-  "title": "Дебильники",
+  "title": "Конспекты",
   "theme": "hugo-theme-quartz",
   "params": {
     "enableMathJax": true,
