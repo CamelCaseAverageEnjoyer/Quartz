@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "0547eb8711bd6834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Задачи Python со звёздочкой.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задачи Python со звёздочкой"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 397.5,
+    "collapsed": true
   },
   "right": {
     "id": "3d3ee405eced04be",
@@ -208,21 +194,33 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "0547eb8711bd6834",
+  "active": "244b65a0f7aa622e",
   "lastOpenFiles": [
-    "content/files/Задача 6 - хэш-функции (обратная задача).pdf",
-    "content/files/Задача 5 - брошенное тело (обратная задача).pdf",
-    "content/Python.md",
-    "content/index.md",
-    "content/Космические исследования.md",
-    "content/Динамические системы.md",
     "content/Теоретическая механика.md",
+    "content/index.md",
     "content/Математика.md",
     "content/files/Математическая статистика.pdf",
     "content/files/Вычислительная математика.pdf",
-    "content/files/Имбецильное подразделение (матан).pdf",
     "content/Имбецильное подразделение (матан).md",
+    "content/files/Имбецильное подразделение (матан).pdf",
+    "content/Программирование.md",
+    "content/Python.md",
     "content/Задачи Python со звёздочкой.md",
+    "content/files/Задача 3 - свободный вклад.pdf",
+    "content/Задача 2 - игральный кубик.md",
+    "content/Задача 1 - общий НОД.md",
+    "content/Задача 4 - Разность квадратов.md",
+    "content/Задача 3 - Числа.md",
+    "content/files/Задача 2 - Робот-пылесос.pdf",
+    "content/files/Задача 1 - Произведение Фибоначчи.pdf",
+    "content/C.md",
+    "content/Указатели.md",
+    "content/Общее (программирование).md",
+    "content/Соотношение между командами оболочки.md",
+    "content/files/Задача 6 - хэш-функции (обратная задача).pdf",
+    "content/files/Задача 5 - брошенное тело (обратная задача).pdf",
+    "content/Космические исследования.md",
+    "content/Динамические системы.md",
     "content/Matlab.md",
     "content/(Matlab) Графика.md",
     "content/(Matlab) Конструкции Matlab.md",
@@ -231,21 +229,8 @@
     "content/(Matlab) Функции, импорт.md",
     "content/(Matlab) Работа с файлами.md",
     "content/(Python) Графика.md",
-    "content/(Python) Модули.md",
-    "content/(Python) ООП.md",
-    "content/(Python) Типы данных.md",
-    "content/Задача 3 - свободный вклад,pdf.md",
     "content/files/Задача 4 - брошенное тело.pdf",
-    "content/files/Задача 3 - свободный вклад.pdf",
     "content/files/Задача 2 - нормальное распределение.pdf",
-    "content/files/Задача 1 - равномерное распределение.pdf",
-    "content/(Python) Конструкции Python.md",
-    "content/(Python) Базовый синтаксис.md",
-    "content/ГОС по специальности 1.1.7.md",
-    "content/files/Элементы общей алгебры и общей топологии.pdf",
-    "content/Записи вольного формата.md",
-    "content/files/Основные понятия теории динамических систем.pdf",
-    "content/Элементы общей алгебры и общей топологии.md",
     "content/files/центр.excalidraw.png",
     "content/files/устойчивость.excalidraw.png",
     "content/files/уст-фокус.excalidraw.png",
